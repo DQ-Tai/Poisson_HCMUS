@@ -6,7 +6,7 @@ Phần mềm tự động tính toán các sai số, vẽ đồ thị hội tụ
 
 ## ⚙️ System requirement
 
-Để chạy được mã nguồn này, máy tính của bạn cần có:
+Để chạy được mã nguồn này, máy tính cần:
 1. **Python (phiên bản 3.6 trở lên):** Nếu chưa có, bạn có thể tải tại [python.org](https://www.python.org/downloads/) (hoặc có thể dùng VS code)
 2. Một phần mềm gõ lệnh: **Terminal** (trên macOS/Linux) hoặc **Command Prompt / PowerShell** (trên Windows).
 
